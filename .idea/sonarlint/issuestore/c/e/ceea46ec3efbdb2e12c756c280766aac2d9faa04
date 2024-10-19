@@ -1,0 +1,10 @@
+
+†
+java:S2259&"CA "NullPointerException" could be thrown; "order" is nullable here.(ÙŞò8öŒˆÔ÷1J$b7d3e86f-b7e6-41c8-beb9-c323f8f600a9
+Œ
+java:S1128"DRemove this unused import 'com.gl.orderservice.payload.CustomerDTO'.(Ş²”«øÿÿÿÿ8ÿŒˆÔ÷1J$90d80cb1-686e-4782-8736-576cc5814e21
+†
+java:S1128
+"CRemove this unused import 'com.gl.orderservice.payload.ProductDTO'.(Ñ‘š¨8ÿŒˆÔ÷1J$52dd6e8c-e623-441c-8c06-07c13104c99d
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿŒˆÔ÷1J$5e897bf4-26ee-47f8-ac36-840823abe058
